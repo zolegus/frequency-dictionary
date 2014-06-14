@@ -2,13 +2,13 @@
 <resources>
 
     <string name="app_name">Frequency Dictionary</string>
-    <string name="Verbs_section">Verbs</string>
-    <string name="Nouns_section">Nouns</string>
-    <string name="Adjectives_section">Adjectives</string>
-    <string name="Prepositions_section">Prepositions</string>
-    <string name="Adverbs_section">Adverbs</string>
-    <string name="Conjunctions_section">Conjunctions</string>
-    <string name="Pronouns_section">Pronouns</string>
+    <string name="verbs_section">Verbs</string>
+    <string name="nouns_section">Nouns</string>
+    <string name="adjectives_section">Adjectives</string>
+    <string name="prepositions_section">Prepositions</string>
+    <string name="adverbs_section">Adverbs</string>
+    <string name="conjunctions_section">Conjunctions</string>
+    <string name="pronouns_section">Pronouns</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>

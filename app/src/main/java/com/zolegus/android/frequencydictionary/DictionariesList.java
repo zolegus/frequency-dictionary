@@ -68,7 +68,7 @@ public class DictionariesList extends Activity
                 mTitle = getString(R.string.adjectives_section);
                 break;
             case 4:
-                mTitle = getString(R.string.prepositions_section
+                mTitle = getString(R.string.prepositions_section);
                 break;
             case 5:
                 mTitle = getString(R.string.adverbs_section);
